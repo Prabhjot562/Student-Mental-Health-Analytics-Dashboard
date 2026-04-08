@@ -29,6 +29,10 @@ It highlights how factors like academic pressure, sleep patterns, and lifestyle 
 
 ---
 
+## 📸 Dashboard Preview
+<img width="1653" height="848" alt="Dashboard" src="https://github.com/user-attachments/assets/5d927b23-0d91-4385-ba68-a645f2bfdd3b" />
+
+
 ## 📊 Insights Generated
 - 📌 Sleep patterns significantly affect stress levels  
 - 📌 Academic pressure correlates with anxiety  
